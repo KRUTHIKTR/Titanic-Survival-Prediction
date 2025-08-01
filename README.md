@@ -1,4 +1,4 @@
-#Titanic Survival Prediction Using Machine Learning
+# Titanic Survival Prediction Using Machine Learning
 
 Predict whether a passenger survived the Titanic disaster using machine learning models on classic Titanic dataset. This project involves data cleaning, feature engineering, exploratory data analysis (EDA), and multiple classification algorithms to achieve a high accuracy in survival prediction.
 
@@ -45,3 +45,10 @@ This repository focuses on predicting the survival of Titanic passengers using m
     ```
     pip install -r requirements.txt
     ```
+    
+## Usage
+
+- Open the main Jupyter Notebook (`Titan-EDA-and-Modeling.ipynb`) to explore data analysis, modeling, and prediction steps.
+- Ensure the data files `train.csv` and `test.csv` are placed in the `data/` directory.
+- Run all notebook cells to train models and generate predictions.
+- The final survival predictions will be saved as `titanic-survival-prediction-results.csv`.
