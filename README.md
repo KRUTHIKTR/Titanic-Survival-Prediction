@@ -53,7 +53,7 @@ This repository focuses on predicting the survival of Titanic passengers using m
 - Run all notebook cells to train models and generate predictions.
 - The final survival predictions will be saved as `titanic-survival-prediction-results.csv`.
 
-  ## Project Structure
+## Project Structure
     ```
     Titanic-Survival-Prediction/
     ├── data/
@@ -64,3 +64,28 @@ This repository focuses on predicting the survival of Titanic passengers using m
     ├── README.md
     └── titanic-survival-prediction-results.csv
     ```
+- `data/` folder contains raw datasets.  
+- Notebook contains analysis and modeling code.  
+- `requirements.txt` specifies Python dependencies.  
+- `README.md` provides project overview and instructions.
+
+## Contributing
+
+Contributions are highly welcome! To contribute:
+
+1. Fork the repository.  
+2. Create a new branch for your feature or bugfix:
+    ```
+    git checkout -b feature/my-feature
+    ```
+3. Commit your changes:
+    ```
+    git commit -m "Add new feature"
+    ```
+4. Push the branch to your fork:
+    ```
+    git push origin feature/my-feature
+    ```
+5. Open a Pull Request describing your changes.
+
+Please adhere to existing code style and document your work clearly.
