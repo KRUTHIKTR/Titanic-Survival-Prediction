@@ -101,6 +101,7 @@ The project requires the Python packages (mentioned in `requirements.txt`)
 
 ## Contact
 For any queries, feel free to reach out:
+
 <a href="mailto:kruthiktrgowda24@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
 </a>
@@ -117,6 +118,7 @@ For any queries, feel free to reach out:
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linktree logo"  />
 </a>
 
-Thank you for checking out the Titanic Survival Prediction project! Feel free to explore and contribute.
+
+###### Thank you for checking out the Titanic Survival Prediction project! Feel free to explore and contribute.
 
 
