@@ -89,3 +89,16 @@ Contributions are highly welcome! To contribute:
 5. Open a Pull Request describing your changes.
 
 Please adhere to existing code style and document your work clearly.
+
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+## Dependencies
+
+The project requires the Python packages (mentioned in `requirements.txt`)
+
+Thank you for checking out the Titanic Survival Prediction project! Feel free to explore and contribute.
+
+
