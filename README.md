@@ -52,3 +52,15 @@ This repository focuses on predicting the survival of Titanic passengers using m
 - Ensure the data files `train.csv` and `test.csv` are placed in the `data/` directory.
 - Run all notebook cells to train models and generate predictions.
 - The final survival predictions will be saved as `titanic-survival-prediction-results.csv`.
+
+  ## Project Structure
+    ```
+    Titanic-Survival-Prediction/
+    ├── data/
+    │ ├── train.csv
+    │ └── test.csv
+    ├── Titan-EDA-and-Modeling.ipynb
+    ├── requirements.txt
+    ├── README.md
+    └── titanic-survival-prediction-results.csv
+    ```
