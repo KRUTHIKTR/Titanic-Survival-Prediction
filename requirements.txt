@@ -1,7 +1,7 @@
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- xgboost
-- lightgbm
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
