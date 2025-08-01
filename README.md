@@ -56,18 +56,20 @@ This repository focuses on predicting the survival of Titanic passengers using m
 ## Project Structure
   ```
     Titanic-Survival-Prediction/
-    ├── data/
-    │ ├── train.csv
-    │ └── test.csv
-    ├── Titan-EDA-and-Modeling.ipynb
+    ├── Datasets/
+    │ ├── Titanic-Dataset.csv
+    ├──Notebook/
+    │ ├── Titanc Survivial Prediction.ipynb
     ├── requirements.txt
+    ├── License
     ├── README.md
     └── titanic-survival-prediction-results.csv
   ```
-- `data/` folder contains raw datasets.  
-- Notebook contains analysis and modeling code.  
+- `Datasets/` folder contains raw datasets.  
+- `Notebook/` contains analysis and modeling code.  
 - `requirements.txt` specifies Python dependencies.  
 - `README.md` provides project overview and instructions.
+- `License` contains the license associated with this project.
 
 ## Contributing
 
