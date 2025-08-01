@@ -9,7 +9,8 @@ Predict whether a passenger survived the Titanic disaster using machine learning
 - [Usage](#usage)  
 - [Project Structure](#project-structure)  
 - [Contributing](#contributing)  
-- [License](#license)  
+- [License](#license)
+- [Dependencies](#Dependencies)  
 
 ## Overview
 
