@@ -54,7 +54,7 @@ This repository focuses on predicting the survival of Titanic passengers using m
 - The final survival predictions will be saved as `titanic-survival-prediction-results.csv`.
 
 ## Project Structure
-    ```
+```
     Titanic-Survival-Prediction/
     ├── data/
     │ ├── train.csv
@@ -63,7 +63,7 @@ This repository focuses on predicting the survival of Titanic passengers using m
     ├── requirements.txt
     ├── README.md
     └── titanic-survival-prediction-results.csv
-    ```
+```
 - `data/` folder contains raw datasets.  
 - Notebook contains analysis and modeling code.  
 - `requirements.txt` specifies Python dependencies.  
