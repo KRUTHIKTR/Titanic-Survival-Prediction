@@ -101,7 +101,9 @@ The project requires the Python packages (mentioned in `requirements.txt`)
 
 ## Contact
 For any queries, feel free to reach out:
-- **Email:** kruthiktrgowda24@gmail.com
+- **Email:** <a href="mailto:kruthiktrgowda24@gmail.com" target="_blank">
+              <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
+            </a>
 - **GitHub:** (https://github.com/KRUTHIKTR)
 - **Linkedin:** (https://www.linkedin.com/in/kruthiktr/)
 - **Linktree** (https://linktr.ee/kruthik_tr)
