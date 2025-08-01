@@ -99,6 +99,13 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 The project requires the Python packages (mentioned in `requirements.txt`)
 
+## Contact
+For any queries, feel free to reach out:
+- **Email:** kruthiktrgowda24@gmail.com
+- **GitHub:** (https://github.com/KRUTHIKTR)
+- **Linkedin:** (https://www.linkedin.com/in/kruthiktr/)
+- **Linktree** (https://linktr.ee/kruthik_tr)
+
 Thank you for checking out the Titanic Survival Prediction project! Feel free to explore and contribute.
 
 
