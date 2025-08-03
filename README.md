@@ -4,14 +4,14 @@ Predict whether a passenger survived the Titanic disaster using machine learning
 ## Table of Contents
 
 - [Overview](#overview)  
-- [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
+- [Features](#features)
 - [Project Structure](#project-structure)  
+- [Installation](#installation)    
 - [Contributing](#contributing)  
-- [License](#license)
 - [Dependencies](#Dependencies)  
+- [License](#license)
 
+  
 ## Overview
 
 This repository focuses on predicting the survival of Titanic passengers using machine learning techniques. The approach includes thorough exploratory data analysis, data preprocessing to handle missing data and feature engineering, and evaluating several classification models like Random Forest, Decision Tree, XGBoost, Extra Trees, and Logistic Regression. The final model, Random Forest, achieved an accuracy of approximately **82.68%**.
@@ -23,6 +23,24 @@ This repository focuses on predicting the survival of Titanic passengers using m
 - Feature selection and engineering to improve model performance  
 - Model training and evaluation using different classifiers  
 - Prediction generation for unseen test data  
+
+## Project Structure
+  ```
+    Titanic-Survival-Prediction/
+    ├── Datasets/
+    │ ├── Titanic-Dataset.csv
+    ├──Notebook/
+    │ ├── Titanc Survivial Prediction.ipynb
+    ├── requirements.txt
+    ├── License
+    ├── README.md
+    └── titanic-survival-prediction-results.csv
+  ```
+- `Datasets/` folder contains raw datasets.  
+- `Notebook/` contains analysis and modeling code.  
+- `requirements.txt` specifies Python dependencies.  
+- `README.md` provides project overview and instructions.
+- `License` contains the license associated with this project.
 
 ## Installation
 
@@ -45,61 +63,21 @@ This repository focuses on predicting the survival of Titanic passengers using m
     ```
     pip install -r requirements.txt
     ```
-    
-## Usage
-
-- Open the main Jupyter Notebook (`Titan-EDA-and-Modeling.ipynb`) to explore data analysis, modeling, and prediction steps.
-- Ensure the data files `train.csv` and `test.csv` are placed in the `data/` directory.
-- Run all notebook cells to train models and generate predictions.
-- The final survival predictions will be saved as `titanic-survival-prediction-results.csv`.
-
-## Project Structure
-  ```
-    Titanic-Survival-Prediction/
-    ├── Datasets/
-    │ ├── Titanic-Dataset.csv
-    ├──Notebook/
-    │ ├── Titanc Survivial Prediction.ipynb
-    ├── requirements.txt
-    ├── License
-    ├── README.md
-    └── titanic-survival-prediction-results.csv
-  ```
-- `Datasets/` folder contains raw datasets.  
-- `Notebook/` contains analysis and modeling code.  
-- `requirements.txt` specifies Python dependencies.  
-- `README.md` provides project overview and instructions.
-- `License` contains the license associated with this project.
 
 ## Contributing
 
-Contributions are highly welcome! To contribute:
+Contributions are welcome. Please read the [`CONTRIBUTING.md`](https://github.com/KRUTHIKTR/Titanic-Survival-Prediction/blob/main/Contributing.md)) file for guidelines.
 
-1. Fork the repository.  
-2. Create a new branch for your feature or bugfix:
-    ```
-    git checkout -b feature/my-feature
-    ```
-3. Commit your changes:
-    ```
-    git commit -m "Add new feature"
-    ```
-4. Push the branch to your fork:
-    ```
-    git push origin feature/my-feature
-    ```
-5. Open a Pull Request describing your changes.
 
-Please adhere to existing code style and document your work clearly.
+## Dependencies
+
+The project requires the Python packages (mentioned in `requirements.txt`)
 
 
 ## License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-## Dependencies
-
-The project requires the Python packages (mentioned in `requirements.txt`)
 
 ## Contact
 For any queries, feel free to reach out:
