@@ -19,6 +19,13 @@ Thank you for considering contributing to this project. We welcome contributions
 
 Please adhere to existing code style and document your work clearly.
 
+## Usage
+
+- Open the main Jupyter Notebook (`Titan-EDA-and-Modeling.ipynb`) to explore data analysis, modeling, and prediction steps.
+- Ensure the data files `train.csv` and `test.csv` are placed in the `data/` directory.
+- Run all notebook cells to train models and generate predictions.
+- The final survival predictions will be saved as `titanic-survival-prediction-results.csv`.
+
 ### Code Style
 - Follow PEP 8 guidelines for Python code.
 - Keep commits atomic and descriptive.
