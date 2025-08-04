@@ -32,6 +32,7 @@ This repository focuses on predicting the survival of Titanic passengers using m
     ├──Notebook/
     │ ├── Titanc Survivial Prediction.ipynb
     ├── requirements.txt
+    ├── Contributing.md
     ├── License
     ├── README.md
     └── titanic-survival-prediction-results.csv
